@@ -18,6 +18,11 @@ These projects showcase my skills in **data cleaning, analysis, and visualizatio
 **Key Skills:** Data preprocessing, visualization, descriptive statistics.  
 **Tools:** Python, Pandas, Seaborn, Matplotlib.  
 
+### 4. Superstore Sales Dashboard (Power BI)
+**Objective:** Built an interactive dashboard to analyze Superstore sales data, identifying trends in revenue, profit, customer segments, and shipping modes.
+**Key Skills:** Data visualization, KPI creation, trend analysis, dashboard design.
+**Tools:** Power BI
+
 ## Tools & Technologies  
 - Python  
 - Pandas  
@@ -25,3 +30,4 @@ These projects showcase my skills in **data cleaning, analysis, and visualizatio
 - Matplotlib  
 - Seaborn  
 - Jupyter Notebook
+- Power BI
