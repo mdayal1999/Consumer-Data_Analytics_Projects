@@ -20,7 +20,9 @@ These projects showcase my skills in **data cleaning, analysis, and visualizatio
 
 ### 4. Superstore Sales Analysis (Power BI & Excel)
 **Objective:** Designed an interactive dashboard to analyze Superstore sales, identifying trends in revenue, profit, customer segments, and shipping modes, while using Excel Pivot Tables to summarize and uncover insights from large datasets.
-**Key Skills:** Data visualization, KPI creation, trend analysis, dashboard design.
+**Key Skills:** 
+**Excel** Data visualization, KPI creation, trend analysis, dashboard design.
+**Power BI** Created pivot tables to summarize and analyze sales, profit, and product performance by categories, regions, and customer segments; identified top-selling products and key trends.
 **Tools:** Power BI
 
 ## Tools & Technologies  
