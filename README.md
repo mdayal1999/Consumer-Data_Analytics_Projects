@@ -18,15 +18,27 @@ These projects showcase my skills in **data cleaning, analysis, and visualizatio
 **Key Skills:** Data preprocessing, visualization, descriptive statistics.  
 **Tools:** Python, Pandas, Seaborn, Matplotlib.  
 
-### 4. Superstore Sales Analysis (Power BI & Excel)
-**Objective:** Designed an interactive dashboard to analyze Superstore sales, identifying trends in revenue, profit, customer segments, and shipping modes, while using Excel Pivot Tables to summarize and uncover insights from large datasets.
+### 4. Superstore Sales Analysis (Power BI & Excel & SQL)
+**Objective:** Designed an interactive dashboard to analyze Superstore sales, identifying trends in revenue, profit, customer segments, and shipping modes, while using Excel Pivot Tables to summarize and uncover insights from large datasets. Conducted an end-to-end analysis of the Superstore dataset using SQL to uncover key business insights on sales, profit, customers, and product performance.
+
 
 **Key Skills:** 
 
 **Excel** Data visualization, KPI creation, trend analysis, dashboard design.
 
 **Power BI** Created pivot tables to summarize and analyze sales, profit, and product performance by categories, regions, and customer segments; identified top-selling products and key trends.
-**Tools:** Power BI
+
+**SQL** Cleaned and transformed data (converted date formats, created separate `orders` and `products` tables).
+Wrote **40+ analytical queries** including:
+- Sales, profit, and discount trends
+- YoY and MoM sales growth analysis
+- Top customers, regions, and product categories
+- Loss-making orders and profit margin calculations
+- Ranking customers and products by performance
+- Window functions for running totals and category-level insights
+- Designed queries to support visualization in Power BI.
+
+**Tools:** Power BI,Excel(Pivot Tables), SQL(MySQL, SQL Window Functions, CTEs and Sub-Queries).
 
 ## Tools & Technologies  
 - Python  
@@ -36,4 +48,5 @@ These projects showcase my skills in **data cleaning, analysis, and visualizatio
 - Seaborn  
 - Jupyter Notebook
 - Power BI
-- Excel 
+- Excel
+- SQL
