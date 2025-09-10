@@ -18,7 +18,7 @@ These projects showcase my skills in **data cleaning, analysis, and visualizatio
 **Key Skills:** Data preprocessing, visualization, descriptive statistics.  
 **Tools:** Python, Pandas, Seaborn, Matplotlib.  
 
-### 4. Superstore Sales Analysis (Power BI & Excel & SQL)
+### 4. Superstore Sales Analysis (Retail Sales Analysis)
 **Objective:** Designed an interactive dashboard to analyze Superstore sales, identifying trends in revenue, profit, customer segments, and shipping modes, while using Excel Pivot Tables to summarize and uncover insights from large datasets. Conducted an end-to-end analysis of the Superstore dataset using SQL to uncover key business insights on sales, profit, customers, and product performance.
 
 
