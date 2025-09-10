@@ -1,5 +1,5 @@
 Welcome to my collection of **Ecommerce-and-Digital-Analytics**!  
-These projects showcase my skills in **data cleaning, analysis, and visualization** using Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`) and **Jupyter Notebook**.
+These projects showcase my skills in **data cleaning, analysis, and visualization** using **Python** (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`), **Jupyter Notebook**, **Power BI** and **SQL**.
 
 ## Projects Included
 
